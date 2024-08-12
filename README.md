@@ -10,23 +10,23 @@ Pojeto de uma locadora de veículos em Java.
 <img src="https://github.com/user-attachments/assets/346012cf-23c2-422d-899c-5bccde9c3666" alt="telaDeLogin" width="300" heihth="200">
 
 <div style="display: flax; justify-content: space-aroud;">
-<img src="https://github.com/user-attachments/assets/8b112993-5384-4486-b130-8f9331a1502b" alt="telaInicial" width="700" heihth="500">
+<img src="https://github.com/user-attachments/assets/95fc14f6-94d3-427f-a104-a1743aea88e6" alt="telaInicial" width="700" heihth="500">
   
 <div style="display: flax; justify-content: space-aroud;">
-<img src="https://github.com/user-attachments/assets/2b1b2f51-68aa-4085-ac3f-7868caf1ad60" alt="telaDeFuncionario" width="700" heihth="500">
+<img src="https://github.com/user-attachments/assets/c547945e-e9bc-488e-8d7e-8f40a2091f2e" alt="telaDeFuncionario" width="700" heihth="500">
 
 <div style="display: flax; justify-content: space-aroud;">
-<img src="https://github.com/user-attachments/assets/22b8cbb4-cde4-4466-a11b-e0c49a6335b9" alt="telaDeCliente" width="700" heihth="500">
+<img src="https://github.com/user-attachments/assets/da13289d-cd5e-44f3-a5c2-a2dfb9ee462b" alt="telaDeClienteNaoEncontrado" width="700" heihth="500">
 
 <div style="display: flax; justify-content: space-aroud;">
-<img src="https://github.com/user-attachments/assets/439793ff-73ab-4be2-a1f4-77880dc71f41" alt="telaDeCliente" width="700" heihth="500">
+<img src="https://github.com/user-attachments/assets/4f6a95ff-1a6f-449f-8f1f-da837b3584cf" alt="telaDeClienteEncontrado" width="700" heihth="500">
 
 <div style="display: flax; justify-content: space-aroud;">
-<img src="https://github.com/user-attachments/assets/8fda42e2-ea76-4f8b-aba9-33cac12b26ff" alt="telaDeVeículo" width="700" heihth="500">
+<img src="https://github.com/user-attachments/assets/821baae6-6135-479d-a2ed-ed6f49c45d40" alt="telaDeVeículo" width="700" heihth="500">
 
 <div style="display: flax; justify-content: space-aroud;">
-<img src="https://github.com/user-attachments/assets/98f4d590-b224-4212-bd71-b01fb6626909" alt="telaDeAluguel" width="700" heihth="500">
+<img src="https://github.com/user-attachments/assets/f1ecc3d1-b748-42cc-8ff6-6bfaad526d19" alt="telaDeAluguel" width="700" heihth="500">
 
 <div style="display: flax; justify-content: space-aroud;">
-<img src="https://github.com/user-attachments/assets/f4e5c7db-b543-4159-ad3a-c1f8fa480263" alt="telaDePendenciasFaturamento" width="700" heihth="500">
+<img src="https://github.com/user-attachments/assets/94c5a5f4-a76f-463a-823b-3e11a96203b4" alt="telaDePendenciasFaturamento" width="700" heihth="500">
 
